@@ -7,6 +7,7 @@ public class Gitpro {
 		System.out.println("Hello");
 
 		System.out.println("Adding a new line-deepu");
+		System.out.println("Hi")
 	}
 
 }
